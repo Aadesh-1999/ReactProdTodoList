@@ -10,8 +10,7 @@ import React, { useState } from 'react';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 function App() {
 
@@ -64,7 +63,7 @@ function App() {
       </Switch>
 
 
-      <Footer name="Aaditi" imageSrc="./logo.svg" />
+      <Footer name="Aadesh" imageSrc="./logo.svg" />
       </Router>
     </div>
   );

@@ -42,7 +42,7 @@ function App() {
 
   const [todos, setTodos] = useState([]);
   return (
-    <div className="App" >
+    <div className="App">
       <Router>
       <Header name="TODO LIST" searchBar={false} />
 

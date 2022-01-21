@@ -61,8 +61,6 @@ function App() {
           <Contacts />
         </Route>
       </Switch>
-
-
       <Footer name="Aadesh" imageSrc="./logo.svg" />
       </Router>
     </div>

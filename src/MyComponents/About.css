@@ -1,0 +1,11 @@
+.container{
+    text-align: start;
+    
+}
+.about{
+    /* background-color: rgb(167, 51, 51); */
+   color: rgb(182, 70, 70);
+   font-weight: 900;
+   font-size: x-large;
+   font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,20 @@
+@keyframes example {
+    0% {color: red;}
+    10% {color: rgb(0, 255, 76);}
+    20% {color: yellow;}
+    30% {color: rgb(89, 0, 255);}
+    40% {color: rgb(255, 0, 170);}
+    50% {color: rgb(62, 231, 217);}
+    60% {color: brown;}
+    70% {color: pink;}
+    80% {color: cyan;}
+    90% {color: magenta;}
+    100% {color: darkgreen;}
+  }
+  
+  /* The element to apply the animation to */
+  .title {
+    animation-name: example;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }

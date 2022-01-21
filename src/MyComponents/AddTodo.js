@@ -12,7 +12,7 @@ export const AddTodo = (props) => {
     }
 
     return (
-        <div className="container mx-5">
+        <div className="container">
             <form className="container p-1" onSubmit={submit}>
                 <div className="row mt-5">
                     <div className="col-md-12 col-lg-6 mb-3">

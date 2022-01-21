@@ -15,7 +15,7 @@
   /* The element to apply the animation to */
   .title {
     animation-name: example;
-    animation-duration: 10s;
+    animation-duration: 20s;
     animation-iteration-count: infinite;
-    text-shadow: 0 0 1px #000000, 0 0 5px #000000;
+    text-shadow: 0 0 1px #000000;
   }

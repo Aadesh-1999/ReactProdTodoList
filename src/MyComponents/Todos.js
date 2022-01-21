@@ -4,7 +4,7 @@ import './Todos.css';
 export const Todos = (props) => {
   return (
   <div className="container mb-5 text-center px-5">
-      <h3 className='my-5 pb-3 title'>TODOS List</h3><hr/>
+      <h3 className='my-4 mb-2 pb-3 title'>TODOS List</h3><hr/>
         {props.todos.length===0 ? "No Todos To Display" :
             props.todos.map((todo)=>{
               return(
